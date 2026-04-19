@@ -1,4 +1,4 @@
-const form = document.getElementById("loginForm");
+const form = document.getElementById("loginform");
 const result = document.getElementById("result");
 
 form.addEventListener("submit", async (e) => {
